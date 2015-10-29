@@ -1,0 +1,1 @@
+mkdir file | touch directory | ls -la;
